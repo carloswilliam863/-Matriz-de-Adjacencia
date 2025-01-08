@@ -1,0 +1,1 @@
+Este repositório contém uma implementação simples de grafos utilizando uma matriz de adjacência em Python. Com este código, é possível adicionar vértices, criar conexões entre eles (arestas) e visualizar a matriz de adjacência de forma intuitiva.
